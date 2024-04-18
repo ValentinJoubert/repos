@@ -1,0 +1,4 @@
+public class marie {
+public String nom;
+System.out.println("c gagne");
+}
