@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 import repos; 
 
 public class Personne {
 	public void m2(){
 	System.out.println("m2");
 	}
+=======
+import repos;
+public class marie {
+public void m1() {
+System.out.println("c gagne");
+}
+>>>>>>> 5da0ce86360320ff7930e050b1cbed39f9771f44
 }
