@@ -1,0 +1,7 @@
+import repos; 
+
+public class Personne {
+	public void m2(){
+	System.out.println("m2");
+	}
+}
